@@ -24,7 +24,7 @@ The Ft_Printf project is a deep dive into C programming, aiming to replicate the
 
 ## Features
 
-Custom Format Specifiers: Supports various format specifiers, including %c, %s, %p, %d, %i, %u, %x, %X, and %% to handle characters, strings, pointers, and numbers in various bases.
+Custom Format Specifiers: Supports various format specifiers, including %c, %s, %p, %d, %i, %u, %x, %X, and %% to handle characters, strings, pointers, and numbers in various bases.\n
 
 Precision and Width: Implements precision and width control, allowing for detailed formatting of the output.
 
