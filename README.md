@@ -9,6 +9,8 @@ The Ft_Printf project is a deep dive into C programming, aiming to replicate the
 - [Usage](#usage)
 - [Challenges-and-Learnings](#challenges-and-learnings)
 
+## Installation
+
 ```
 1. Clone the repository
 - https://github.com/Safwaan-GitHub/ft_printf.git
